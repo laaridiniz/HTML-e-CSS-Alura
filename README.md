@@ -8,3 +8,10 @@
 * HTML e CSS: trabalhando com responsividade e publicação de projetos
 
 Os cursos são ministrados pelo [Guilherme Lima](https://github.com/guilhermeonrails) e pela [Rafaella Ballerini](https://github.com/rafaballerini).
+
+O portfólio seguirá o design prototipado pelo Figma, conforme ilustrado abaixo:
+
+
+<div align="center">
+  <img src="prototipo.png" alt="layout do portfólio com fundo preto e fonte nas cores branca e aqua">
+</div>
