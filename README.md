@@ -13,5 +13,9 @@ O portfólio seguirá o design prototipado pelo Figma, conforme ilustrado abaixo
 
 
 <div align="center">
-  <img src="prototipo.png" alt="layout do portfólio com fundo preto e fonte nas cores branca e aqua">
+  <br>
+  <img width="80%" src="imagens/home.png" alt="layout da página inicial do portfólio com fundo preto e fonte nas cores branca e aqua">
+  <br>
+  <br>
+  <img width="80%" src="imagens/about-me.png" alt="layout da página sobre mim do portfólio com fundo preto e fonte nas cores branca e aqua">
 </div>
